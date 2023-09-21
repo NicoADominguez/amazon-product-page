@@ -1,0 +1,38 @@
+body {
+    padding: 10px
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container {
+    display: flex;
+    border: 1px solid green;
+}
+
+.left {
+    border: 1px solid green;
+    margin: 0px 20px 0px 0px;
+
+} 
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    margin-top: 15px;
+    width: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.breadcrumb {
+    color: #565959;
+    margin-top: 15px;
+}
+
+a {
+    color: #007185;
+}
+
+.ratings {
+    width: 125px;
+}
