@@ -5,11 +5,10 @@ body {
 
 .container {
     display: flex;
-    border: 1px solid green;
+    
 }
 
 .left {
-    border: 1px solid green;
     margin: 0px 20px 0px 0px;
 
 } 
